@@ -1,6 +1,6 @@
 #!/bin/bash -l
 #
-# Build every central arctic ensemble member's case directories
+# Build every locations case directory
 #
 #Before:
 #module load slurm/blanca
