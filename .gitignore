@@ -1,0 +1,17 @@
+# data
+*.nc
+*.npy
+*.npz
+*.txt.gz
+
+# outputs
+slurm-logs/
+runs/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.env
