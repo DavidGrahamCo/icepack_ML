@@ -1,0 +1,97 @@
+run_id = 0008 
+ location = centralarctic 
+ set_id = 0001 
+ mods_file = set_0001.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0002 
+ mods_file = set_0002.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0003 
+ mods_file = set_0003.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0004 
+ mods_file = set_0004.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0005 
+ mods_file = set_0005.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0006 
+ mods_file = set_0006.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0007 
+ mods_file = set_0007.modsrun_id = 0008 
+ location = centralarctic 
+ set_id = 0008 
+ mods_file = set_0008.modsrun_id = 0008 
+ location = barents 
+ set_id = 0001 
+ mods_file = set_0001.modsrun_id = 0008 
+ location = barents 
+ set_id = 0002 
+ mods_file = set_0002.modsrun_id = 0008 
+ location = barents 
+ set_id = 0003 
+ mods_file = set_0003.modsrun_id = 0008 
+ location = barents 
+ set_id = 0004 
+ mods_file = set_0004.modsrun_id = 0008 
+ location = barents 
+ set_id = 0005 
+ mods_file = set_0005.modsrun_id = 0008 
+ location = barents 
+ set_id = 0006 
+ mods_file = set_0006.modsrun_id = 0008 
+ location = barents 
+ set_id = 0007 
+ mods_file = set_0007.modsrun_id = 0008 
+ location = barents 
+ set_id = 0008 
+ mods_file = set_0008.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0001 
+ mods_file = set_0001.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0002 
+ mods_file = set_0002.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0003 
+ mods_file = set_0003.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0004 
+ mods_file = set_0004.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0005 
+ mods_file = set_0005.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0006 
+ mods_file = set_0006.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0007 
+ mods_file = set_0007.modsrun_id = 0008 
+ location = sibchuk 
+ set_id = 0008 
+ mods_file = set_0008.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0001 
+ mods_file = set_0001.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0002 
+ mods_file = set_0002.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0003 
+ mods_file = set_0003.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0004 
+ mods_file = set_0004.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0005 
+ mods_file = set_0005.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0006 
+ mods_file = set_0006.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0007 
+ mods_file = set_0007.modsrun_id = 0008 
+ location = coastalcanada 
+ set_id = 0008 
+ mods_file = set_0008.mods
