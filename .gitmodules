@@ -1,3 +1,4 @@
 [submodule "Icepack"]
 	path = Icepack
 	url = https://github.com/DavidGrahamCo/Icepack.git
+	ignore = dirty
