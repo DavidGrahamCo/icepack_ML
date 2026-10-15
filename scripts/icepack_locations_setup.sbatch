@@ -5,7 +5,6 @@
 #Before:
 #module load slurm/blanca
 #mkdir -p slurm-logs
-#sbatch setup_ensembles.sbatch
 #
 #SBATCH --job-name=icepack_setup
 #SBATCH --qos=blanca-appm

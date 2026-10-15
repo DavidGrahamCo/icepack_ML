@@ -8,3 +8,5 @@ for loc in centralarctic barents sibchuk coastalcanada; do
 done
  
 echo "Done with setup"
+
+
