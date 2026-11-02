@@ -1,6 +1,6 @@
 # This is a record of functions that multiple notebooks call
 import torch
-
+import numpy as np
 
 def make_index(run_ids, T, input_window):
     # takes the full run length (T) and run number indicies (run_ids) as well as the length of the training window.
@@ -70,3 +70,14 @@ class IcepackDataset(torch.utils.data.Dataset):
 
     def __len__(self):
         return len(self.index)
+    
+    
+def ice_days(X, channels, index, window =365, cutoff = 0.15, ncat = 5):
+    assert X.shape[2] == len(channels), f"X has {X.shape[2]} channels but {len(channels)} names were given"
+    # 0.15 from DAlooza talk, takes val_index returns the number of days with ice above threshold
+    aicen_idx = [channels.index(f"aicen_ncat{i}") for i in range(1,1+ncat)]
+    days_list = []
+    for run,start in index:
+        aice = X[run, start: start+window][:,aicen_idx].sum(axis=1)
+        days_list.append(int((aice>cutoff).sum()))
+    return np.array(days_list)
